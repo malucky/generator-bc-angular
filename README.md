@@ -15,7 +15,7 @@ Running `yo bc-angular:module` creates the following files with default template
 2. npm install -g bc-angular
 3. run `yo bc-angular:module`
 4. follow the instruction prompts
-```
+
 
 ## Note
 
